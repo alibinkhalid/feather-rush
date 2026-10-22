@@ -1,0 +1,18 @@
+{
+  "name": "Feather Rush — Arcade Flyer",
+  "short_name": "Feather Rush",
+  "description": "Flap, dodge, and soar through 10 unique worlds in this polished arcade flyer.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
